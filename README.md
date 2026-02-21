@@ -5,6 +5,9 @@
 
 Building a persistent-memory AI desktop system designed for serious daily use.
 
+📢 Discussed in the Tauri community:  
+https://github.com/tauri-apps/tauri/discussions/14982
+
 ## 🚀 Why This Matters
 
 AI tools today are session-based.
