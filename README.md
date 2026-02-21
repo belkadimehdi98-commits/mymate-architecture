@@ -2,6 +2,18 @@
   <img src="https://mymate.tech/favicon.png" width="120" />
 </p>
 # MyMate Architecture Notes
+## 🚀 Why This Matters
+
+AI tools today are session-based.
+
+MyMate is built around persistent memory and architectural control —
+designed for developers and power users who rely on AI daily.
+
+This project explores how to build a desktop AI system that:
+- Maintains long-term context
+- Stays fast during long sessions
+- Synchronizes across devices
+- Separates orchestration from interface
 
 This repository documents architectural decisions and technical lessons learned while building **MyMate** — a Windows AI desktop application focused on persistent memory and long-session performance.
 ![MyMate Architecture](architecture.png)
