@@ -21,6 +21,12 @@ This project explores how to build a desktop AI system that:
 This repository documents architectural decisions and technical lessons learned while building **MyMate** — a Windows AI desktop application focused on persistent memory and long-session performance.
 ![MyMate Architecture](architecture.png)
 
+## 🧱 Architectural Decisions
+
+- **Why Tauri:** smaller footprint + tighter desktop control than Electron.
+- **Why Rust backend:** predictable performance and safer async orchestration.
+- **Why Local Vault (SQLite + files):** fast retrieval + works offline; sync is additive, not required.
+
 ---
 
 ## 🧠 Problem
