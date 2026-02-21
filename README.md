@@ -2,6 +2,7 @@
   <img src="https://mymate.tech/favicon.png" width="120" />
 </p>
 # MyMate Architecture Notes
+
 ## 🚀 Why This Matters
 
 AI tools today are session-based.
