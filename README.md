@@ -29,6 +29,13 @@ This repository documents architectural decisions and technical lessons learned 
 
 ---
 
+## ⚙️ Technical Challenges Faced
+
+- Managing long-session token growth without freezing the UI
+- Designing local-first memory with optional cloud sync
+- Handling async Rust orchestration without blocking Tauri
+- Preventing image/file state loss across reloads
+
 ## 🧠 Problem
 
 Most AI chat tools:
