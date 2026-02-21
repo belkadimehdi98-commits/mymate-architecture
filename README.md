@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://mymate.tech/favicon.png" width="120" />
+</p>
+
 # MyMate Architecture Notes
 
 This repository documents architectural decisions and technical lessons learned while building **MyMate** — a Windows AI desktop application focused on persistent memory and long-session performance.
