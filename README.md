@@ -61,4 +61,3 @@ The goal is continuity without performance degradation.
 
 ---
 
-This repository will evolve as the architecture evolves.
