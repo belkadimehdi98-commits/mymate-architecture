@@ -3,14 +3,13 @@
 </p>
 # MyMate Architecture Notes
 
-A local-first AI desktop system built for continuity, speed, and serious daily usage.
 
+A local-first AI desktop system for Windows, engineered for continuity, speed, and serious daily work.
 
 
 🔗 **MyMate (Landing Page): https://mymate.tech**  
 ⬇️ **Download / Get Updates: https://mymate.tech**
 
-Building a persistent-memory AI desktop system designed for serious daily use.
 
 📢 Discussed in the Tauri community:  
 https://github.com/tauri-apps/tauri/discussions/14982
