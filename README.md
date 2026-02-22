@@ -3,6 +3,8 @@
 </p>
 # MyMate Architecture Notes
 
+A local-first AI desktop system built for continuity, speed, and serious daily usage.
+
 
 
 🔗 **MyMate (Landing Page): https://mymate.tech**  
