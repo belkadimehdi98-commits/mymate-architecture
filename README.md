@@ -102,8 +102,6 @@ The goal is continuity without performance degradation.
 ---
 
 
----
-
 ## 🚀 Try MyMate
 
 If you're tired of AI slowing down in long sessions  
