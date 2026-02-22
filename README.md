@@ -2,6 +2,7 @@
   <img src="https://mymate.tech/favicon.png" width="120" />
 </p>
 # MyMate Architecture Notes
+
 🔗 **MyMate (Landing Page): https://mymate.tech**  
 ⬇️ **Download / Get Updates: https://mymate.tech**
 
